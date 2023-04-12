@@ -1,2 +1,2 @@
-# cs50w
-ESTE VA A SER EL GITHUB DE MI PROYECTO CON EL CS50W 
+# CS50W
+This will be the repository of my usage of CS50W
